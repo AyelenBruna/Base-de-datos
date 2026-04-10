@@ -1,0 +1,25 @@
+Semana1 
+- ¿Qué es una base de datos?
+Una base de datos es un conjunto organizado de información que se almacena de manera estructurada para facilitar su acceso, gestión y 
+actualización. Permite guardar datos de forma ordenada para utilizarlos cuando sea necesario.
+- Importancia
+Las bases de datos están presentes en aplicaciones que usamos diariamente, ya que permiten guardar información de usuarios, productos, 
+mensajes, entre otros. Son fundamentales para organizar grandes cantidades de datos.
+- Conceptos básicos
+
+- Tabla: Es una estructura similar a una hoja de cálculo que organiza la información en filas y columnas.
+- Registro: Es una fila que contiene los datos de un elemento específico (por ejemplo, una persona).
+- Campo: Es una columna que define el tipo de dato que se almacena (nombre, edad, etc.).
+
+- Clave primaria
+Es un campo único que identifica cada registro dentro de una tabla. No puede repetirse. Ejemplo: DNI o ID.
+- Consulta (Query)
+Es una instrucción que permite obtener información de la base de datos, como por ejemplo buscar ciertos datos específicos.
+- Tipos de bases de datos
+
+- Relacionales (SQL): Organizan la información en tablas relacionadas entre sí. Son estructuradas.
+- No relacionales (NoSQL): Son más flexibles y permiten trabajar con datos no estructurados.
+
+- Conclusión
+Las bases de datos son herramientas esenciales en la actualidad, ya que permiten organizar y gestionar información 
+de manera eficiente, siendo la base de muchos sistemas y aplicaciones.
