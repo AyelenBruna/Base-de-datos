@@ -1,0 +1,32 @@
+Semana2
++ Importancia de las llaves
+Las llaves primarias y foráneas son fundamentales para mantener el orden, la relación y la consistencia de los datos dentro de una base de datos.
+
++ Llave primaria (PK)
+Es un campo único que identifica cada registro en una tabla. No se puede repetir y asegura que no existan datos duplicados.
+
++ Llave foránea (FK)
+Es un campo que permite relacionar una tabla con otra, conectando los datos y asegurando la integridad entre ellas.
+
++ Función principal
+- La PK garantiza que cada dato sea único.
+- La FK permite establecer relaciones entre tablas.
+- Juntas evitan errores, redundancia e inconsistencias.
+
++ Problemas por mal uso
+-  Redundancia de datos
+Ocurre cuando se repite información innecesariamente en varias tablas.
++ Consecuencias:
+- Datos duplicados
+- Mayor probabilidad de errores
+- Dificultad para actualizar información
+
++ Falta de integridad referencial
+Ocurre cuando no se usan llaves foráneas correctamente.
++ Consecuencias:
+- Datos incorrectos o inexistentes
+- Inconsistencia entre tablas
+- Pérdida de confiabilidad en la base de datos
+
++ Conclusión
+El uso correcto de llaves primarias y foráneas es esencial para garantizar la integridad, eficiencia y confiabilidad de una base de datos.
