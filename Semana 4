@@ -1,0 +1,18 @@
+semana 4 
+El tema trata sobre los operadores lógicos en SQL Server y cómo usarlos para consultar datos de manera más precisa. Se explican varios operadores importantes:
+- IS NULL se utiliza para verificar si un campo tiene valores nulos, ya que no se puede usar “=” para esto.
+- LIKE permite buscar patrones dentro de textos usando comodines como % (varios caracteres) y _ (un solo carácter).
+- IN sirve para comprobar si un valor está dentro de una lista de opciones.
+- BETWEEN se usa para filtrar valores dentro de un rango específico.
+
+También se explica la lógica de tres valores en SQL: TRUE, FALSE y UNKNOWN. Este último aparece cuando hay valores nulos, lo que puede afectar los resultados de las condiciones.
+
+Luego se ven las consultas con agrupación de datos:
+
+Las funciones de grupo como COUNT, SUM, AVG, MIN y MAX permiten hacer cálculos sobre conjuntos de datos.
+GROUP BY agrupa registros que tienen valores iguales en ciertas columnas.
+HAVING se usa para filtrar los resultados después de aplicar GROUP BY (a diferencia de WHERE).
+
+Finalmente, el CASE permite crear condiciones dentro de una consulta, funcionando como un IF, por ejemplo para clasificar datos en categorías.
+
+En conjunto, todo esto permite analizar datos, filtrarlos mejor y obtener información resumida en SQL.
