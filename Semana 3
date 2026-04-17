@@ -1,10 +1,8 @@
 semana 3 
-+ ¿Qué es SQL Server?
 SQL Server es un sistema de gestión de bases de datos relacional desarrollado por Microsoft. Permite almacenar, 
 organizar, consultar y manipular datos de manera eficiente.
 
-+ Importancia
-Es una herramienta clave para manejar grandes volúmenes de información en empresas, facilitando el análisis y 
++ Importancia: Es una herramienta clave para manejar grandes volúmenes de información en empresas, facilitando el análisis y 
 la toma de decisiones mediante consultas.
 
 Modelo Entidad-Relación (ER)
@@ -22,8 +20,6 @@ Permite crear una nueva base de datos donde se almacenará la información.
 + Creación de tablas
 Se usa la instrucción:
 - CREATE TABLE
-
-Define la estructura de los datos, incluyendo campos y tipos de datos.
 
 + Inserción de datos
 Se utiliza:
